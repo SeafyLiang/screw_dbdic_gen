@@ -13,7 +13,7 @@ screw码云地址 : https://gitee.com/leshalv/screw
 
 ### WORD
 
-![image-20210224085931826](../../../../Library/Application%20Support/typora-user-images/image-20210224085931826.png)
+![image-20210224090259934](https://i.loli.net/2021/02/24/D8xCbfzTUZHY34i.png)
 
 ### MARKDOWN
 
